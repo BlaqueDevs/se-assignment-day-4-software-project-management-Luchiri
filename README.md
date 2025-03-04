@@ -164,4 +164,15 @@ Due dates and reminders - set deadlines and receive reminders so you never miss 
 Cross-device accessibility - access tasks from any device.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+In 2018, the global task management software market was valued at approximately USD 1.713 billion. It is projected to reach USD 4.535 billion by 2026, exhibiting a compound annual growth rate of 13.3% during the forecast period.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Identifying user needs and expectations.
+
+Competitive differentiation.
+
+Adopting emerging technologies
+
+Monetization and business strategy.
+
+Enhancing user retention.
